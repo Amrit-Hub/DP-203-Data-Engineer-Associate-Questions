@@ -2,8 +2,8 @@ These are memory based questions for the assessment conducted on Jul 2023. Multi
 
 ## Suggestions
 
-- Read this [DP203 Notes1](/files/Dp-203 DE notes.pdf)
-- Read this [DP203 Notes2](/files/Dp-203 notes.pdf)
+- Read this [DP203 Notes1](/files/Dp203DEnotes.pdf)
+- Read this [DP203 Notes2](/files/Dp203notes.pdf)
 - Practice this [github by Microsoft](https://microsoftlearning.github.io/dp-203-azure-data-engineer/)
 - Udemy [course](https://www.udemy.com/course/data-engineering-on-microsoft-azure/)[I personally opted this which includes practice questions too]
 
