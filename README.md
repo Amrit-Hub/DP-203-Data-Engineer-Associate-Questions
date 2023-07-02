@@ -10,7 +10,7 @@ These are memory based questions for the assessment conducted on Jul 2023. Multi
 ## Questions
 
 1. hot vs cold vs archive tiers- days/when to choose
-2. When to swicth from databricks standard cluster to premium based on limitations.
+2. When to switch from databricks standard cluster to premium based on limitations.
 3. Read databricks cluster config json based questions
 4. Table with clustered column, hash distribution- which columns - id col/date col
 5. Dim table with star schema- which is SK
@@ -56,16 +56,29 @@ These are memory based questions for the assessment conducted on Jul 2023. Multi
 45. json- flatten/expand/explode- query synapse
 46. SAS key least maintenance based on situation
 47. Transparent data encryption based question
-48. Case study- partition col?, distribution type for transaction?, table or ext table?, range right for right boundaries?
+48. Case study on contoso- partition col?, distribution type for transaction?, table or ext table?, range right for right boundaries?
 
 ## Lessons Learned
 
-No matter what, please read the following topics carefully
+> No matter what, please read the following topics carefully
 
-1. Storage Tiers
-2. Partition Tables
-3. Indexing
-4. Event hub
-5. Synapse read json complete query with param and values
-6. Window query
-7.
+1. [data-lake-storage-access-control](https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-access-control)
+2. [analytic-functions-azure-stream-analytics](https://learn.microsoft.com/en-us/stream-analytics-query/analytic-functions-azure-stream-analytics)
+3. [workspaces-encryption](https://learn.microsoft.com/en-us/azure/synapse-analytics/security/workspaces-encryption)
+4. [sql-data-warehouse-tables-index](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-tables-index)
+5. [sql-data-warehouse-tables-partition](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-tables-partition)
+6. [sql-data-warehouse-tables-distribute](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-tables-distribute)
+7. [lifecycle-management-overview](https://learn.microsoft.com/en-us/azure/storage/blobs/lifecycle-management-overview)
+8. [security-white-paper-access-control](https://learn.microsoft.com/en-us/azure/synapse-analytics/guidance/security-white-paper-access-control)
+9. [stream-analytics-use-reference-data](https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-use-reference-data)
+10. [stream-analytics-define-inputs](https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-define-inputs)
+11. [stream-analytics-stream-analytics-query-patterns](https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-stream-analytics-query-patterns)
+12. [stream-analytics-window-functions](https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-window-functions)
+13. [query-json-files](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/query-json-files)
+14. [sql-data-warehouse-load-from-azure-blob-storage-with-polybase](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-load-from-azure-blob-storage-with-polybase)
+15. [load-data-from-azure-blob-storage-using-copy](https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/load-data-from-azure-blob-storage-using-copy)
+16. [source-control](https://learn.microsoft.com/en-us/azure/data-factory/source-control)
+17. [concepts-pipeline-execution-triggers](https://learn.microsoft.com/en-us/azure/data-factory/concepts-pipeline-execution-triggers)
+18. [access-tiers-overview](https://learn.microsoft.com/en-us/azure/storage/blobs/access-tiers-overview?tabs=azure-portal)
+19. [monitor-using-azure-monitor](https://learn.microsoft.com/en-us/azure/data-factory/monitor-using-azure-monitor)
+20. [synapse-analytics](https://learn.microsoft.com/en-us/azure/databricks/external-data/synapse-analytics)
