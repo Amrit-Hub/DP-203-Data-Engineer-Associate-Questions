@@ -1,4 +1,4 @@
-These are memory based questions for the assessment conducted on Jul 2023. Multiple questions mentioned here can be a part of one question. I have noted the questions best possible.
+These are memory based questions for the assessment conducted on Jul 2023. Multiple questions mentioned here can be a part of one question. I have remembered the questions best possible.
 
 ## Suggestions
 
