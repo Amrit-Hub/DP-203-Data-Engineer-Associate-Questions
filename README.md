@@ -1,5 +1,3 @@
-These are memory based questions for the assessment conducted on Jul 2023. Multiple questions mentioned here can be a part of one question. I have remembered the questions best possible.
-
 ## Suggestions
 
 - Read this [DP203 Notes1](/files/Dp203DEnotes.pdf)
