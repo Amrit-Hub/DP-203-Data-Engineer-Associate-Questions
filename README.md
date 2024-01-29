@@ -3,7 +3,7 @@
 - Read this [DP203 Notes1](/files/Dp203DEnotes.pdf)
 - Read this [DP203 Notes2](/files/Dp203notes.pdf)
 - Practice this [github by Microsoft](https://microsoftlearning.github.io/dp-203-azure-data-engineer/)
-- Udemy [course](https://www.udemy.com/course/data-engineering-on-microsoft-azure/)[I personally opted this which includes practice questions too]
+- Udemy [course](https://www.udemy.com/course/data-engineering-on-microsoft-azure/)[I personally opted this which includes practice questions too. Use Udemy for Bussiness for free]
 
 Repo [link](https://github.com/Amrit-Hub/Azure-Data-Engineer-Associate-Questions)
 ## Questions
